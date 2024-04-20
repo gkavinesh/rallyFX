@@ -1,0 +1,7 @@
+Max Verstappen,25,Redbull,Honda Civic Type R,57
+Lewis Hamilton,38,Vodafone,Merc S63,78
+Lando Norris,24,McLaren,P1,45
+Sergio Perez,28,Ferrari,Enzo,67
+Fernando Alonso,38,Williams,Aston Martin Vantage,34
+Pierre Gasly,24,Alpine,Subaru WRX,23
+Carlos Sainz,27,Haas,Golf GTI,37

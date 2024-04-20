@@ -1,0 +1,63 @@
+
+
+
+
+
+
+
+
+
+Date: 2023-04-05
+Track Location: Barcelona
+Lewis Hamilton - Position: 1, Points: 10
+Sergio Perez - Position: 2, Points: 7
+Carlos Sainz - Position: 3, Points: 5
+Fernando Alonso - Position: 4, Points: 0
+Max Verstappen - Position: 5, Points: 0
+Pierre Gasly - Position: 6, Points: 0
+Lando Norris - Position: 7, Points: 0
+Date: 2023-04-17
+Track Location: Norway
+Sergio Perez - Position: 1, Points: 10
+Carlos Sainz - Position: 2, Points: 7
+Pierre Gasly - Position: 3, Points: 5
+Fernando Alonso - Position: 4, Points: 0
+Max Verstappen - Position: 5, Points: 0
+Lewis Hamilton - Position: 6, Points: 0
+Lando Norris - Position: 7, Points: 0
+Date: 2023-04-14
+Track Location: Höljes
+Lewis Hamilton - Position: 1, Points: 10
+Lando Norris - Position: 2, Points: 7
+Fernando Alonso - Position: 3, Points: 5
+Carlos Sainz - Position: 4, Points: 0
+Max Verstappen - Position: 5, Points: 0
+Sergio Perez - Position: 6, Points: 0
+Pierre Gasly - Position: 7, Points: 0
+Date: 2023-04-01
+Track Location: Rīga
+Sergio Perez - Position: 1, Points: 10
+Pierre Gasly - Position: 2, Points: 7
+Lewis Hamilton - Position: 3, Points: 5
+Fernando Alonso - Position: 4, Points: 0
+Lando Norris - Position: 5, Points: 0
+Carlos Sainz - Position: 6, Points: 0
+Max Verstappen - Position: 7, Points: 0
+Date: 2023-04-20
+Track Location: Norway
+Carlos Sainz - Position: 1, Points: 10
+Fernando Alonso - Position: 2, Points: 7
+Sergio Perez - Position: 3, Points: 5
+Lewis Hamilton - Position: 4, Points: 0
+Max Verstappen - Position: 5, Points: 0
+Pierre Gasly - Position: 6, Points: 0
+Lando Norris - Position: 7, Points: 0
+Date: 2023-11-26
+Track Location: Rīga
+Fernando Alonso - Position: 1, Points: 10
+Lando Norris - Position: 2, Points: 7
+Carlos Sainz - Position: 3, Points: 5
+Sergio Perez - Position: 4, Points: 0
+Pierre Gasly - Position: 5, Points: 0
+Max Verstappen - Position: 6, Points: 0
+Lewis Hamilton - Position: 7, Points: 0

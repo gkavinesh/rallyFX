@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="344.0" prefWidth="448.0" style="-fx-background-color: #FFCAD4;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.project.homeControllerudd">
+   <children>
+      <TextField fx:id="DriverName" layoutX="180.0" layoutY="242.0" prefHeight="27.0" prefWidth="182.0" style="-fx-background-color: transaprent; -fx-border-color: black;" />
+      <Button layoutX="291.0" layoutY="280.0" mnemonicParsing="false" onAction="#updateDriver" prefHeight="36.0" prefWidth="70.0" style="-fx-background-color: transparent; -fx-border-color: black;" text="Update " />
+      <Label layoutX="128.0" layoutY="248.0" text="Name">
+         <font>
+            <Font name="Berlin Sans FB" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="86.0" layoutY="25.0" prefHeight="20.0" prefWidth="312.0" text="Enter driver name to update details !">
+         <font>
+            <Font name="Century Gothic" size="16.0" />
+         </font>
+      </Label>
+      <TextArea fx:id="driverNamesTextArea" layoutX="85.0" layoutY="89.0" prefHeight="142.0" prefWidth="278.0" />
+      <Label layoutX="134.0" layoutY="71.0" text="Available drivers to update details">
+         <font>
+            <Font name="Constantia" size="12.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="root" prefHeight="379.0" prefWidth="444.0" style="-fx-background-color: #FFCAD4;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.project.homeControllervrl">
+     <TextArea fx:id="detailsTextArea" editable="false" layoutX="68.0" layoutY="125.0" prefHeight="190.0" prefWidth="307.0" />
+   <Text fx:id="locationText" layoutX="126.0" layoutY="336.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Location" textAlignment="CENTER" wrappingWidth="190.72308349609375">
+      <font>
+         <Font name="Franklin Gothic Demi Cond" size="22.0" />
+      </font>
+   </Text>
+     <Label layoutX="68.0" layoutY="67.0" text="Select Date" />
+     <DatePicker fx:id="datePicker" layoutX="68.0" layoutY="85.0" prefHeight="27.0" prefWidth="103.0" style="-fx-border-color: black; -fx-background-color: transparent;" />
+     <Button fx:id="showDetailsBtn" layoutX="289.0" layoutY="85.0" onAction="#showRaceDetails" style="-fx-border-color: black; -fx-background-color: transparent;" text="Show Details" />
+   <ImageView fitHeight="62.0" fitWidth="103.0" layoutX="182.0" layoutY="23.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+         <Image url="@../../../imgs/rally.png" />
+      </image>
+   </ImageView>
+   
+</AnchorPane>
